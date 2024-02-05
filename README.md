@@ -40,3 +40,5 @@ Now all u have to do is adversite this script as u can
 ```
 loadstring(game:HttpGet("Your Link Here", true))()
 ```
+10: Create a Webhook Discord
+!(https://www.youtube.com/watch?v=fKksxz2Gdnc)
